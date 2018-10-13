@@ -9,31 +9,31 @@
 
 <channel>
 	<title>Warm and Hot Baryonic Matter in the Cosmos</title>
-	<atom:link href="/hubs/fm2/feed/" rel="self" type="application/rss+xml" />
-	<link>/hubs/fm2</link>
+	<atom:link href="/fm2/feed/" rel="self" type="application/rss+xml" />
+	<link>/fm2</link>
 	<description>A Focus Meeting at the 2018 IAU General Assembly</description>
-	<lastBuildDate>Tue, 02 Oct 2018 15:24:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Oct 2018 10:02:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>/hubs/fm2/wp-content/uploads/2017/09/cropped-iau_bb2-32x32.jpg</url>
+	<url>/fm2/wp-content/uploads/2017/09/cropped-iau_bb2-32x32.jpg</url>
 	<title>Warm and Hot Baryonic Matter in the Cosmos</title>
-	<link>/hubs/fm2</link>
+	<link>/fm2</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title></title>
-		<link>/hubs/fm2/scientific-rationale/</link>
+		<link>/fm2/scientific-rationale/</link>
 		<pubDate>Sat, 02 Sep 2017 08:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=115</guid>
-		<description><![CDATA[One of the triumphs of the Big Bang Nucleosynthesis theory is that its predicted abundances of primordial isotopes are in good agreement with the measured values. Moreover, the predicted baryonic mass is accounted for at high redshifts observationally. Going towards low redshifts, however, only a fraction of the BBN baryons are detected; this is the &#8230; <a href="/hubs/fm2/scientific-rationale/" class="more-link">Continue reading<span class="screen-reader-text"> ""</span></a>]]></description>
+		<description><![CDATA[One of the triumphs of the Big Bang Nucleosynthesis theory is that its predicted abundances of primordial isotopes are in good agreement with the measured values. Moreover, the predicted baryonic mass is accounted for at high redshifts observationally. Going towards low redshifts, however, only a fraction of the BBN baryons are detected; this is the &#8230; <a href="/fm2/scientific-rationale/" class="more-link">Continue reading<span class="screen-reader-text"> ""</span></a>]]></description>
 				<content:encoded><![CDATA[<p>One of the triumphs of the Big Bang Nucleosynthesis theory is that its predicted abundances of primordial isotopes are in good agreement with the measured values. Moreover, the predicted baryonic mass is accounted for at high redshifts observationally. Going towards low redshifts, however, only a fraction of the BBN baryons are detected; this is the “missing baryon problem”. The common wisdom is that those baryons are not missing, but are hidden in warm-hot gas of very low density in the cosmic web or circumgalactic medium; cosmological hydrodynamic simulations support this view. Such gas may be “seen” through the emission and absorption lines of its highly ionized constituents. For that, dedicated high-throughput, high-resolution spectroscopic missions at soft X-ray wavelengths would be required. This Focus Meeting will gather observers, theorists, and experimentalists to discuss topics related to the “missing baryon problem” and other important issues (such as the origin of the soft diffuse X-ray background) that can be addressed with such missions. A number of mission concepts will also be presented.</p>
 ]]></content:encoded>
 			</item>
